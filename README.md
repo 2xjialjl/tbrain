@@ -4,5 +4,5 @@
 ## 建模使用xgboost可於:xg_model中察看
 ## 模型整合:mxi中察看
 ## 全部之程式碼運行於colab https://colab.research.google.com/
-## 另一篇有我有介紹colab之使用 
+## 另一篇有我有介紹colab之使用 https://github.com/2xjialjl/colab/blob/master/colab.ipynb
 ![image](https://github.com/2xjialjl/tbrain/blob/master/image/1.png)
